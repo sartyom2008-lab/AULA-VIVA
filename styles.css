@@ -163,3 +163,24 @@ body {
 .form-button:hover {
     background: #0b4f18;
 }
+.nosotros-dark {
+    background-color: #111827;
+    color: #f9fafb;
+}
+
+.nosotros-dark h2 {
+    color: #ffffff;
+}
+
+.nosotros-dark .card {
+    background-color: #1f2937;
+    color: #f9fafb;
+    border: 1px solid #374151;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+}
+
+.nosotros-dark .card:hover {
+    background-color: #273449;
+    transform: translateY(-5px);
+    transition: 0.3s ease;
+}
